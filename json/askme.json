@@ -1,0 +1,107 @@
+{
+  "filter": {
+    "category": [
+      {
+        "category_id": 1,
+        "category_value": "New Arrival"
+      },
+      {
+        "category_id": 2,
+        "category_value": "Accesories"
+      }
+      ,
+      {
+        "category_id": 3,
+        "category_value": "Bags"
+      }
+      ,
+      {
+        "category_id": 4,
+        "category_value": "Dressed"
+      }
+      ,
+      {
+        "category_id": 5,
+        "category_value": "Jackets"
+      },
+      {
+        "category_id": 6,
+        "category_value": "Jewellery"
+      },
+      {
+        "category_id": 6,
+        "category_value": "Shoes"
+      },
+      {
+        "category_id": 7,
+        "category_value": "Shirt"
+      },
+      {
+        "category_id": 8,
+        "category_value": "Sweater"
+      },
+      {
+        "category_id": 9,
+        "category_value": "T-Shirt"
+      }
+    ],
+    "color": [
+      {
+        "color_id": 1,
+        "color_value": "beige",
+        "color_code":"#eae3d3"
+      },
+      {
+        "color_id": 2,
+        "color_value": "black",
+        "color_code":"#222"
+      },
+      {
+        "color_id": 3,
+        "color_value": "Blue",
+        "color_code":"#6e8cd5"
+      }
+      ,
+      {
+        "color_id": 4,
+        "color_value": "Brown",
+        "color_code":"#f56060"
+      }
+      ,
+      {
+        "color_id": 5,
+        "color_value": "Green",
+        "color_code":"#44c28d"
+      }
+    ],
+    "size": [
+      {
+        "size_id": 1,
+        "size_value": "XS"
+      },
+      {
+        "size_id": 2,
+        "size_value": "S"
+      },
+      {
+        "size_id": 3,
+        "size_value": "M"
+      }
+      ,
+      {
+        "size_id": 4,
+        "size_value": "L"
+      }
+      ,
+      {
+        "size_id": 5,
+        "size_value": "XL"
+      }
+      ,
+      {
+        "size_id": 6,
+        "size_value": "XLL"
+      }
+    ]
+  }
+}
